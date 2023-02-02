@@ -111,7 +111,7 @@ ulFiltors.addEventListener('click', (event) =>{
         elemento.classList.remove('hidden');
         const completado = elemento.classList.contains('completed');
 
-        console.log(completado);
+        // console.log(completado);
 
         switch ( filtro ) {
 
